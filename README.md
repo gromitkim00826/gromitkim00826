@@ -42,7 +42,7 @@ C/C++와 Linux를 기반으로 하드웨어와 소프트웨어를 연결하는
 
 <br>
 
-## 📌 I'm Interested In
+## 🔍 Interests
 
 `Embedded Linux` · `Device Driver` · `C/C++` · `Qt`  
 `System Programming` · `ARM` · `Hardware / Software Interface`
@@ -51,6 +51,4 @@ C/C++와 Linux를 기반으로 하드웨어와 소프트웨어를 연결하는
 
 ## 📝 Blog & Contact
 
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@gromitkim/posts)
-
-📧 [yunakim00826@gmail.com](mailto:yunakim00826@gmail.com)
+[Velog](https://velog.io/@gromitkim/posts) · [yunakim00826@gmail.com](mailto:yunakim00826@gmail.com)
